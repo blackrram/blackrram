@@ -1,87 +1,77 @@
 <!-- ===================================================== -->
-<!--                BLACKRRAM • ULTRA ELITE                -->
+<!--                BLACKRRAM • GOD TIER PROFILE           -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=220&section=header&text=BLACKRRAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:0f2027,70:203a43,100:00ff9c&text=BLACKRRAM&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=00ff9c&animation=fadeIn"/>
 
 </div>
 
-<h1 align="center">⚡ Ramen | blackrram ⚡</h1>
-<h3 align="center">Cyber Security Researcher • Reverse Engineer • iOS Application Analyst</h3>
+<h1 align="center">⚡ Ramen / blackrram ⚡</h1>
+<h3 align="center">Cyber Security • Reverse Engineering • iOS Application Research</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Security+Through+Knowledge;Reverse+Engineering+Mindset;iOS+Application+Research;Binary+Analysis+%7C+System+Exploration;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=Initializing+Security+Profile...;Reverse+Engineering+Mindset+Loaded;Mobile+Application+Researcher;iOS+Structure+Analysis;Security+Through+Deep+Understanding" />
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## 🖥️ TERMINAL BOOT SEQUENCE
 
 ```bash
-$ sudo ./introduce.sh
+boot@blackrram:~$ initializing_profile
+loading modules .......... done
+checking system integrity  ✔
+starting research mode     ✔
+connecting to github       ✔
 
-Name        : Ramen
-Username    : blackrram
-Field       : Cyber Security
-Specialty   : Reverse Engineering & Mobile App Research
-Experience  : Multi-language Development
-Status      : Active
-Mode        : Research / Development
-specialize in cybersecurity 
-research and deep technical 
-analysis of software systems.
-My interests focus on understanding 
-application internals, exploring 
-mobile architectures, 
-and studying how modern software 
-protections work.
-
-I enjoy experimenting with:
-	•	iOS application structures (IPA research)
-	•	software behavior analysis
-	•	system-level programming concepts
-	•	secure development practices
-	•	reverse engineering methodologies
-  TECH STACK
-  <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,swift,java,go,rust,bash,html,css,linux,git" />
+welcome back, ramen.
+name: Ramen
+alias: blackrram
+role: Cyber Security Researcher
+focus:
+  - Reverse Engineering
+  - Mobile Application Analysis
+  - iOS IPA Research
+  - Software Behavior Study
+experience: multi-language developer
+status: online
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,swift,java,go,rust,bash,linux,git,html,css"/>
 </p>
-
-SPECIALIZATION MATRIX
-expertise:
-  cybersecurity:        ███████████░ 90%
-  reverse_engineering:  ██████████░░ 85%
-  ios_analysis:         █████████░░░ 80%
-  system_programming:   █████████░░░ 80%
-  web_security:         ████████░░░░ 70%
-   PERFORMANCE DASHBOARD
-  <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blackrram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrram&theme=tokyonight&hide_border=true&background=00000000"/>
+Cyber Security        ███████████░ 90%
+Reverse Engineering   ██████████░░ 85%
+iOS Analysis          █████████░░░ 80%
+System Programming    █████████░░░ 80%
+Web Security          ████████░░░░ 70%
+Automation            ███████░░░░░ 65%
+• Application Security Concepts
+• Binary & Memory Analysis
+• Mobile Architecture Exploration
+• Software Protection Mechanisms
+• Secure Coding & System Design
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackrram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrram&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrram&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrram&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 </p>
-
-CURRENT OPERATIONS
-[✓] Studying application security models
+<p align="center">
+<img src="https://raw.githubusercontent.com/blackrram/blackrram/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+[✓] Researching mobile security models
 [✓] Exploring iOS internal structures
-[✓] Researching software protections
-[✓] Building experimental projects
-
-PHILOSOPHY
-
-  "Real hackers don't destroy systems.
-They understand them better than anyone else."
-
-CONNECT
-github: https://github.com/blackrram
-status: learning_every_day
-availability: open_to_collaboration
+[✓] Building experimental repositories
+[✓] Continuous learning protocol active
+"Security is mastery of understanding —
+not destruction of systems."
+github://blackrram
+status://always_learning
+mode://researcher
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=blackrram&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0f2027&height=120&section=footer"/>
-<!-- =================== END =================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff9c,100:000000"/>
+<!-- ====================== END ====================== -->
